@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Thaobxph10183",
+      "email":"thaobxph10183@fpt.edu.vn",
+      "birthday": "01-01-2001"
+    },
+    {
+      "id": 2,
+      "name": "Thaobxph10183",
+      "email":"thaobxph10183@fpt.edu.vn",
+      "birthday": "01-03-2001"
+    },
+    {
+      "id": 3,
+      "name": "Thaobxph10183",
+      "email":"thaobxph10183@fpt.edu.vn",
+      "birthday": "01-02-2001"
+    }
+  ]
+}
